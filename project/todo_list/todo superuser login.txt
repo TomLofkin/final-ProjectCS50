@@ -1,0 +1,17 @@
+project superuser login:
+
+tlofkin
+tlofkin@email.com
+superuser8104
+
+2nd user:
+
+john
+
+userj8104
+
+3rd user
+
+paul
+
+userp8104
